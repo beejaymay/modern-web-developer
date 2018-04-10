@@ -62,8 +62,8 @@ The web is going through an irresponsible amount of churn\
 The web is going through an irresponsible amount of churn\
 The web is going through an irresponsible amount of churn
 
-This pace is agonizing; Code from yesterday is obsolete\
-The speed of innovation is enough to knock me off my feet\
+This pace is agonizing! Code from yesterday is obsolete!\
+The speed of innovation is enough to knock me off my feet!\
 It's happening too fast! I can’t keep up! I’m tired! It’s all a blur!\
 I am the very model of a modern web developer!
 
