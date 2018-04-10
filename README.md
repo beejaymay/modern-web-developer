@@ -1,15 +1,15 @@
 # modern-web-developer
 To the tune of "I Am the Very Model of a Modern Major-General" from Gilbert and Sullivan's "The Pirates of Penzance".
 
-I am the very model of a modern web developer . 
-I’m quite fluent with JavaScript; An HTML whisperer . 
-My code is clean and elegant, I genuinely innovate . 
-And even know my way around a Promise and async / await . 
+I am the very model of a modern web developer\
+I’m quite fluent with JavaScript; An HTML whisperer\
+My code is clean and elegant, I genuinely innovate\
+And even know my way around a Promise and async / await\
  
-I’m very well acquainted too with matters vector graphical . 
-I understand why SVG coordinates seem magical . 
-And with Adobe Illustrator I can carefully produce . 
-A mockup or a logo in most any format that you choose . 
+I’m very well acquainted too with matters vector graphical\
+I understand why SVG coordinates seem magical\
+And with Adobe Illustrator I can carefully produce\
+A mockup or a logo in most any format that you choose\
 
 [Chorus] . 
 A mockup or a logo in most any format that you choose . 
