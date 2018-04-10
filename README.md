@@ -30,7 +30,7 @@ The World Wide Web Consortium and Ecma International\
 My knowledge of our legacy is truly supernatural
 
 With LESS and SASS and CSS, designing for mobility\
-I’ll perfectly apply the right amount of specificity\ 
+I’ll perfectly apply the right amount of specificity\
 From custom fonts and parallax to grid and flex and border-box\
 I know most every tip and trick both common and unorthodox
 
