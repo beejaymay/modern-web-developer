@@ -8,7 +8,7 @@ And even know my way around a Promise and async / await
  
 I’m very well acquainted too with matters vector graphical\
 I understand why SVG coordinates seem magical\
-And with Adobe Illustrator I can carefully produce\
+And even without Photoshop I elegantly can produce\
 A mockup or a logo in most any format that you choose
 
 [Chorus]\
@@ -29,8 +29,8 @@ I know why Douglas Crockford fought the battle over ES4\
 The World Wide Web Consortium and Ecma International\
 My knowledge of our legacy is truly supernatural
 
-With LESS and SASS and CSS, my style is quite remarkable\
-The proof of my responsive skill is quite incontrovertible\
+With LESS and SASS and CSS, designing for mobility\
+I’ll perfectly apply the right amount of specificity\ 
 From custom fonts and parallax to grid and flex and border-box\
 I know most every tip and trick both common and unorthodox
 
