@@ -1,5 +1,5 @@
 # modern-web-developer
-To the tune of "I Am the Very Model of a Modern Major-General" from Gilbert and Sullivan's "The Pirates of Penzance".
+(To the tune of "I Am the Very Model of a Modern Major-General" from Gilbert and Sullivan's "The Pirates of Penzance")
 
 I am the very model of a modern web developer\
 I’m quite fluent with JavaScript; An HTML whisperer\
