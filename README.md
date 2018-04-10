@@ -1,4 +1,4 @@
-# modern-web-developer
+# Modern Web Developer
 (To the tune of "I Am the Very Model of a Modern Major-General" from Gilbert and Sullivan's "The Pirates of Penzance")
 
 I am the very model of a modern web developer\
