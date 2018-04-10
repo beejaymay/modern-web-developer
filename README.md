@@ -5,7 +5,7 @@ I am the very model of a modern web developer
 I’m quite fluent with JavaScript; An HTML whisperer
 My code is clean and elegant, I genuinely innovate
 And even know my way around a Promise and async / await
-
+ 
 I’m very well acquainted too with matters vector graphical
 I understand why SVG coordinates seem magical
 And with Adobe Illustrator I can carefully produce
